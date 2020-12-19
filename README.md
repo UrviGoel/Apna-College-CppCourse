@@ -1,1 +1,3 @@
-These are the codes for the Data Structure and Algorithm in C++ course on Apni Kaksha 
+# C++ Placement Series 
+These are the codes written by me for the C++ Placement Series course on Apni College. 
+I covered the course from the very basics of programming to queue data structure. 
